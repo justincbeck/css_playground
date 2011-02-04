@@ -1,0 +1,57 @@
+body {
+  width: 420px;
+  height: 300px;
+}
+
+.left-side {
+  border: 1px solid red;
+  float: left;
+  width: 298px;
+  height: 298px;
+
+}
+
+.upper-left {
+  border: 1px solid blue;
+  padding: 5px;
+  float: left;
+  width: 137px;
+  height: 137px;
+}
+
+.upper-right {
+  border: 1px solid blue;
+  margin-left: -1px;
+  padding: 5px;
+  float: left;
+  width: 138px;
+  height: 137px;
+}
+
+.lower-left {
+  border: 1px solid blue;
+  margin-top: -1px;
+  padding: 5px;
+  float: left;
+  width: 137px;
+  height: 138px;
+}
+
+.lower-right {
+  border: 1px solid blue;
+  padding: 5px;
+  margin-left: -1px;
+  margin-top: -1px;
+  float: left;
+  width: 138px;
+  height: 138px;
+}
+
+.right-side {
+  border: 1px solid red;
+  padding: 5px;
+  margin-left: -1px;
+  float :left;
+  width: 109px;
+  height: 288px;
+}
